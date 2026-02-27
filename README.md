@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sparsh
-- 👀 I’m interested in everything vode
+- 👀 I’m interested in everything code
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me sparsh.agarwal@zomato.com
+- 📫 How to reach me sparsh21agarwal@gmail.com
 - ⚡ Fun fact: I play the guitar
 
 <!---
